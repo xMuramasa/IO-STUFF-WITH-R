@@ -1,0 +1,871 @@
+Sexo;Horas Estudio Semanal;VTR;Tiempo Libre;Carrete;Salud;Inasistencias;Nota Final
+F;2-5 hr;0;Normal;Mucho;Normal;6;<55
+F;2-5 hr;0;Normal;Normal;Normal;4;<55
+F;5-10 hr;0;Poco;Poco;Muy Buena;2;>=55
+F;2-5 hr;0;Normal;Poco;Muy Buena;4;<55
+M;2-5 hr;0;Mucho;Poco;Muy Buena;2;>=55
+M;2-5 hr;0;Mucho;Mucho;Normal;4;>=55
+F;2-5 hr;0;Nada;Mucho;Muy Mala;6;<55
+M;2-5 hr;0;Poco;Poco;Muy Mala;1;>=55
+M;2-5 hr;0;Demasiado;Nada;Muy Buena;3;>=55
+F;2-5 hr;0;Normal;Normal;Suficiente;0;<55
+F;5-10 hr;0;Poco;Poco;Buena;2;>=55
+M;<2 hr;0;Normal;Normal;Muy Buena;2;>=55
+M;2-5 hr;0;Mucho;Normal;Normal;2;>=55
+M;5-10 hr;0;Demasiado;Poco;Normal;0;>=55
+F;<2 hr;0;Mucho;Mucho;Suficiente;5;>=55
+F;5-10 hr;0;Poco;Normal;Suficiente;6;>=55
+F;2-5 hr;0;Normal;Poco;Buena;4;<55
+M;<2 hr;0;Nada;Normal;Muy Buena;4;<55
+M;2-5 hr;0;Mucho;Nada;Muy Mala;0;>=55
+M;<2 hr;0;Mucho;Poco;Muy Buena;1;>=55
+M;2-5 hr;0;Demasiado;Nada;Muy Buena;2;>=55
+M;2-5 hr;0;Mucho;Mucho;Muy Buena;4;>=55
+F;5-10 hr;0;Normal;Poco;Muy Buena;2;<55
+F;<2 hr;2;Poco;Poco;Muy Buena;10;<55
+M;<2 hr;0;Poco;Poco;Muy Buena;2;>=55
+M;<2 hr;0;Poco;Mucho;Muy Mala;4;>=55
+M;2-5 hr;0;Normal;Normal;Muy Buena;6;>=55
+M;2-5 hr;0;Mucho;Demasiado;Muy Buena;4;>=55
+M;2-5 hr;0;Mucho;Poco;Muy Buena;0;>=55
+M;2-5 hr;0;Normal;Nada;Muy Buena;0;>=55
+M;2-5 hr;0;Demasiado;Poco;Muy Buena;0;>=55
+M;2-5 hr;0;Normal;Poco;Suficiente;6;>=55
+M;<2 hr;0;Mucho;Normal;Muy Buena;0;>=55
+F;<2 hr;0;Demasiado;Nada;Muy Buena;0;<55
+M;5-10 hr;0;Mucho;Normal;Buena;2;>=55
+M;5-10 hr;0;Mucho;Normal;Muy Buena;3;>=55
+F;5-10 hr;0;Normal;Poco;Muy Buena;2;>=55
+F;<2 hr;0;Normal;Nada;Suficiente;3;>=55
+F;2-5 hr;1;Normal;Normal;Normal;2;>=55
+M;<2 hr;0;Mucho;Normal;Muy Buena;3;>=55
+M;2-5 hr;0;Normal;Normal;Muy Buena;2;>=55
+M;<2 hr;0;Mucho;Nada;Muy Mala;0;>=55
+F;2-5 hr;1;Normal;Normal;Muy Buena;10;<55
+F;2-5 hr;0;Poco;Poco;Muy Buena;8;<55
+F;2-5 hr;0;Normal;Demasiado;Normal;3;>=55
+M;>10 hr;0;Poco;Poco;Suficiente;1;>=55
+F;2-5 hr;1;Mucho;Mucho;Normal;2;<55
+F;2-5 hr;0;Normal;Normal;Buena;2;>=55
+F;2-5 hr;0;Normal;Normal;Muy Buena;3;>=55
+M;<2 hr;1;Demasiado;Demasiado;Muy Buena;6;<55
+F;<2 hr;0;Normal;Mucho;Muy Buena;0;>=55
+F;<2 hr;0;Normal;Mucho;Muy Mala;6;>=55
+F;2-5 hr;0;Normal;Mucho;Suficiente;8;<55
+F;2-5 hr;0;Normal;Poco;Muy Mala;3;>=55
+M;2-5 hr;0;Poco;Poco;Muy Buena;1;>=55
+M;2-5 hr;0;Normal;Poco;Muy Buena;2;<55
+F;2-5 hr;0;Poco;Normal;Muy Buena;2;>=55
+F;2-5 hr;0;Mucho;Mucho;Buena;3;>=55
+F;<2 hr;0;Demasiado;Demasiado;Muy Buena;6;>=55
+F;2-5 hr;0;Mucho;Normal;Muy Mala;4;<55
+F;5-10 hr;0;Mucho;Mucho;Buena;2;<55
+F;2-5 hr;0;Mucho;Mucho;Suficiente;0;<55
+F;2-5 hr;0;Mucho;Normal;Muy Mala;0;>=55
+M;>10 hr;0;Normal;Normal;Normal;5;>=55
+F;>10 hr;0;Normal;Normal;Muy Buena;4;<55
+F;2-5 hr;0;Nada;Normal;Buena;2;<55
+F;>10 hr;0;Mucho;Poco;Normal;2;>=55
+M;>10 hr;0;Normal;Poco;Muy Buena;0;>=55
+M;>10 hr;0;Normal;Normal;Normal;0;<55
+F;2-5 hr;2;Normal;Mucho;Muy Buena;2;<55
+M;<2 hr;0;Normal;Poco;Muy Buena;4;>=55
+M;2-5 hr;0;Normal;Normal;Muy Buena;6;<55
+M;>10 hr;0;Mucho;Normal;Muy Mala;8;<55
+F;>10 hr;0;Poco;Normal;Normal;0;>=55
+F;2-5 hr;0;Mucho;Normal;Normal;5;<55
+M;<2 hr;0;Poco;Poco;Normal;2;>=55
+M;5-10 hr;0;Normal;Poco;Muy Buena;5;>=55
+F;2-5 hr;0;Mucho;Mucho;Muy Buena;10;<55
+M;2-5 hr;0;Normal;Normal;Buena;1;>=55
+F;2-5 hr;0;Normal;Poco;Buena;2;<55
+F;2-5 hr;2;Mucho;Mucho;Muy Buena;6;<55
+F;2-5 hr;0;Normal;Mucho;Suficiente;4;<55
+F;5-10 hr;0;Normal;Normal;Muy Mala;6;>=55
+M;2-5 hr;1;Mucho;Poco;Normal;10;<55
+M;2-5 hr;0;Nada;Normal;Muy Buena;10;<55
+F;5-10 hr;0;Normal;Normal;Buena;0;<55
+F;<2 hr;0;Demasiado;Demasiado;Muy Mala;4;>=55
+F;2-5 hr;0;Normal;Normal;Suficiente;4;<55
+F;2-5 hr;0;Normal;Normal;Muy Mala;0;<55
+M;>10 hr;0;Normal;Mucho;Buena;6;>=55
+F;>10 hr;1;Nada;Poco;Muy Mala;2;<55
+M;<2 hr;0;Normal;Normal;Buena;2;>=55
+F;2-5 hr;0;Normal;Demasiado;Muy Buena;2;<55
+F;5-10 hr;0;Normal;Demasiado;Normal;0;<55
+M;<2 hr;0;Demasiado;Demasiado;Buena;5;<55
+M;5-10 hr;0;Mucho;Normal;Buena;0;>=55
+F;2-5 hr;0;Normal;Demasiado;Suficiente;10;<55
+M;2-5 hr;0;Mucho;Mucho;Muy Mala;0;>=55
+F;>10 hr;0;Normal;Normal;Buena;5;>=55
+F;>10 hr;0;Nada;Poco;Normal;8;<55
+M;5-10 hr;0;Normal;Normal;Muy Buena;2;>=55
+M;>10 hr;0;Normal;Demasiado;Muy Mala;2;>=55
+F;5-10 hr;0;Mucho;Demasiado;Buena;3;>=55
+M;<2 hr;0;Demasiado;Normal;Buena;2;>=55
+F;5-10 hr;1;Nada;Poco;Suficiente;0;<55
+F;2-5 hr;1;Nada;Poco;Muy Buena;6;>=55
+M;<2 hr;0;Demasiado;Poco;Normal;0;>=55
+M;2-5 hr;0;Mucho;Poco;Muy Buena;8;<55
+M;2-5 hr;0;Mucho;Mucho;Muy Buena;2;>=55
+M;2-5 hr;0;Mucho;Normal;Suficiente;2;>=55
+M;<2 hr;0;Mucho;Poco;Muy Buena;0;>=55
+M;2-5 hr;1;Poco;Mucho;Muy Buena;10;<55
+M;<2 hr;0;Mucho;Normal;Buena;6;>=55
+F;2-5 hr;0;Poco;Normal;Muy Mala;2;>=55
+M;>10 hr;0;Demasiado;Mucho;Muy Buena;1;>=55
+F;2-5 hr;0;Poco;Poco;Muy Buena;5;>=55
+M;<2 hr;0;Mucho;Mucho;Muy Buena;5;>=55
+F;2-5 hr;0;Mucho;Mucho;Muy Buena;0;<55
+M;<2 hr;0;Demasiado;Demasiado;Muy Buena;3;>=55
+F;2-5 hr;0;Normal;Poco;Muy Mala;0;>=55
+M;<2 hr;2;Normal;Normal;Buena;8;<55
+M;<2 hr;0;Demasiado;Demasiado;Buena;8;>=55
+F;5-10 hr;2;Poco;Poco;Muy Buena;7;<55
+F;<2 hr;0;Normal;Normal;Buena;9;<55
+F;<2 hr;0;Mucho;Mucho;Muy Buena;4;>=55
+F;<2 hr;0;Poco;Nada;Muy Buena;2;>=55
+M;2-5 hr;0;Normal;Normal;Muy Buena;0;<55
+F;5-10 hr;0;Normal;Normal;Muy Buena;6;<55
+M;2-5 hr;0;Mucho;Demasiado;Muy Buena;6;<55
+F;<2 hr;2;Normal;Poco;Muy Buena;8;<55
+M;2-5 hr;1;Mucho;Mucho;Muy Buena;0;>=55
+F;<2 hr;0;Normal;Poco;Muy Buena;0;>=55
+M;>10 hr;0;Poco;Poco;Normal;3;<55
+M;<2 hr;2;Normal;Normal;Suficiente;8;<55
+F;5-10 hr;0;Poco;Poco;Muy Buena;3;>=55
+F;<2 hr;0;Mucho;Mucho;Muy Mala;2;>=55
+F;2-5 hr;0;Mucho;Poco;Muy Buena;3;>=55
+F;2-5 hr;0;Normal;Poco;Muy Buena;6;>=55
+M;<2 hr;0;Normal;Poco;Muy Buena;7;<55
+M;<2 hr;1;Mucho;Mucho;Muy Buena;6;>=55
+F;5-10 hr;2;Poco;Nada;Normal;8;<55
+F;<2 hr;0;Poco;Nada;Buena;2;>=55
+M;2-5 hr;0;Mucho;Mucho;Muy Mala;2;<55
+M;<2 hr;0;Poco;Poco;Muy Buena;8;>=55
+M;<2 hr;0;Poco;Poco;Normal;0;>=55
+M;2-5 hr;1;Demasiado;Demasiado;Muy Buena;6;>=55
+M;<2 hr;2;Normal;Poco;Muy Buena;0;<55
+M;2-5 hr;2;Mucho;Mucho;Normal;6;<55
+M;<2 hr;1;Mucho;Mucho;Muy Buena;0;<55
+M;<2 hr;0;Normal;Normal;Suficiente;2;<55
+M;<2 hr;1;Demasiado;Poco;Suficiente;10;>=55
+M;2-5 hr;0;Normal;Demasiado;Buena;4;<55
+F;2-5 hr;0;Poco;Normal;Normal;0;>=55
+F;2-5 hr;0;Nada;Demasiado;Buena;8;<55
+F;2-5 hr;0;Mucho;Poco;Normal;4;>=55
+M;<2 hr;2;Mucho;Demasiado;Suficiente;9;<55
+M;2-5 hr;0;Normal;Poco;Normal;2;>=55
+M;2-5 hr;0;Mucho;Mucho;Muy Buena;0;<55
+F;2-5 hr;0;Mucho;Demasiado;Buena;4;<55
+M;2-5 hr;0;Mucho;Mucho;Buena;4;<55
+F;2-5 hr;0;Mucho;Mucho;Muy Buena;2;>=55
+M;2-5 hr;0;Normal;Mucho;Buena;4;<55
+M;<2 hr;0;Normal;Normal;Normal;10;<55
+M;2-5 hr;0;Poco;Normal;Suficiente;4;>=55
+M;2-5 hr;0;Mucho;Normal;Normal;10;<55
+M;2-5 hr;0;Poco;Normal;Normal;2;>=55
+F;2-5 hr;0;Mucho;Poco;Muy Buena;1;>=55
+F;2-5 hr;0;Normal;Normal;Muy Mala;10;<55
+F;2-5 hr;0;Poco;Poco;Muy Mala;2;>=55
+M;2-5 hr;0;Normal;Mucho;Buena;2;>=55
+M;<2 hr;0;Normal;Normal;Normal;2;>=55
+M;2-5 hr;0;Poco;Normal;Muy Buena;1;>=55
+F;2-5 hr;0;Normal;Normal;Normal;6;<55
+M;2-5 hr;0;Nada;Normal;Normal;4;<55
+F;2-5 hr;0;Normal;Normal;Suficiente;2;>=55
+F;2-5 hr;0;Normal;Normal;Normal;0;<55
+M;2-5 hr;0;Mucho;Mucho;Muy Buena;10;<55
+M;<2 hr;0;Normal;Poco;Muy Buena;8;<55
+M;<2 hr;0;Normal;Normal;Normal;0;>=55
+F;2-5 hr;0;Normal;Poco;Muy Buena;2;>=55
+M;<2 hr;0;Poco;Normal;Muy Buena;2;>=55
+M;<2 hr;0;Normal;Mucho;Normal;8;<55
+F;<2 hr;1;Poco;Mucho;Suficiente;3;>=55
+F;2-5 hr;0;Demasiado;Poco;Normal;0;<55
+F;2-5 hr;0;Normal;Demasiado;Suficiente;2;>=55
+F;2-5 hr;0;Mucho;Normal;Buena;6;<55
+F;2-5 hr;0;Mucho;Mucho;Muy Mala;4;<55
+F;<2 hr;0;Normal;Poco;Normal;10;<55
+F;>10 hr;0;Normal;Demasiado;Muy Buena;2;>=55
+F;5-10 hr;1;Mucho;Normal;Muy Buena;10;<55
+F;2-5 hr;0;Normal;Poco;Muy Mala;6;>=55
+F;<2 hr;0;Normal;Poco;Muy Buena;6;<55
+F;5-10 hr;0;Mucho;Poco;Buena;6;<55
+F;>10 hr;0;Normal;Normal;Normal;10;<55
+M;2-5 hr;0;Normal;Demasiado;Normal;10;>=55
+F;2-5 hr;0;Normal;Mucho;Buena;5;>=55
+M;2-5 hr;1;Mucho;Mucho;Muy Buena;10;<55
+F;<2 hr;0;Poco;Nada;Normal;10;<55
+F;2-5 hr;0;Mucho;Mucho;Muy Mala;2;>=55
+F;2-5 hr;2;Mucho;Demasiado;Muy Mala;9;<55
+M;2-5 hr;1;Poco;Mucho;Buena;10;<55
+F;<2 hr;0;Normal;Normal;Normal;3;<55
+F;5-10 hr;0;Normal;Normal;Buena;4;<55
+F;2-5 hr;0;Poco;Demasiado;Muy Buena;2;<55
+F;5-10 hr;1;Normal;Mucho;Muy Buena;8;<55
+F;2-5 hr;0;Normal;Nada;Normal;2;>=55
+M;2-5 hr;0;Normal;Normal;Buena;0;>=55
+F;5-10 hr;0;Normal;Poco;Muy Buena;0;>=55
+F;2-5 hr;1;Normal;Normal;Buena;10;<55
+F;2-5 hr;0;Normal;Mucho;Normal;10;>=55
+M;2-5 hr;0;Normal;Normal;Normal;2;>=55
+M;2-5 hr;0;Normal;Poco;Normal;10;<55
+F;5-10 hr;0;Poco;Normal;Normal;10;>=55
+F;2-5 hr;0;Poco;Normal;Normal;10;>=55
+M;2-5 hr;0;Demasiado;Poco;Muy Mala;4;>=55
+M;2-5 hr;0;Demasiado;Demasiado;Suficiente;10;<55
+M;2-5 hr;0;Poco;Mucho;Muy Mala;2;>=55
+M;2-5 hr;0;Mucho;Poco;Muy Buena;10;<55
+M;5-10 hr;0;Normal;Normal;Suficiente;10;<55
+M;2-5 hr;0;Mucho;Poco;Buena;6;>=55
+F;<2 hr;0;Demasiado;Poco;Muy Buena;10;>=55
+F;2-5 hr;0;Nada;Nada;Normal;2;>=55
+M;2-5 hr;1;Demasiado;Mucho;Suficiente;0;<55
+M;2-5 hr;0;Demasiado;Demasiado;Muy Buena;2;>=55
+M;2-5 hr;0;Normal;Normal;Buena;2;>=55
+M;<2 hr;0;Mucho;Demasiado;Normal;7;<55
+M;<2 hr;0;Normal;Poco;Muy Buena;2;>=55
+F;5-10 hr;0;Mucho;Mucho;Normal;0;<55
+M;<2 hr;0;Normal;Normal;Buena;0;>=55
+M;<2 hr;0;Poco;Poco;Suficiente;6;>=55
+M;2-5 hr;1;Normal;Normal;Muy Buena;8;<55
+M;<2 hr;0;Normal;Poco;Muy Buena;0;>=55
+M;<2 hr;1;Mucho;Demasiado;Muy Buena;0;<55
+M;2-5 hr;0;Normal;Normal;Suficiente;6;<55
+M;<2 hr;1;Poco;Demasiado;Muy Buena;4;<55
+M;<2 hr;0;Normal;Poco;Normal;0;<55
+M;<2 hr;0;Mucho;Poco;Muy Buena;3;>=55
+M;<2 hr;1;Mucho;Mucho;Muy Buena;2;<55
+F;>10 hr;0;Poco;Normal;Buena;6;>=55
+M;2-5 hr;0;Normal;Nada;Muy Mala;10;>=55
+M;2-5 hr;0;Poco;Mucho;Buena;5;>=55
+F;>10 hr;0;Mucho;Nada;Suficiente;0;<55
+F;2-5 hr;0;Nada;Poco;Suficiente;10;>=55
+M;2-5 hr;0;Normal;Poco;Normal;2;<55
+M;5-10 hr;0;Normal;Poco;Normal;1;>=55
+F;5-10 hr;0;Poco;Normal;Buena;4;<55
+F;5-10 hr;0;Normal;Normal;Normal;0;<55
+M;2-5 hr;0;Poco;Demasiado;Muy Mala;2;>=55
+M;2-5 hr;0;Mucho;Mucho;Muy Buena;2;<55
+F;2-5 hr;0;Normal;Mucho;Buena;8;>=55
+M;2-5 hr;0;Mucho;Demasiado;Muy Buena;10;<55
+F;2-5 hr;0;Normal;Demasiado;Normal;8;<55
+F;2-5 hr;2;Normal;Demasiado;Muy Buena;10;<55
+F;>10 hr;0;Demasiado;Demasiado;Suficiente;4;>=55
+F;2-5 hr;0;Mucho;Normal;Normal;2;>=55
+F;2-5 hr;0;Normal;Normal;Muy Mala;2;<55
+F;2-5 hr;0;Mucho;Mucho;Muy Buena;4;>=55
+F;2-5 hr;0;Nada;Nada;Muy Buena;10;<55
+M;<2 hr;0;Poco;Mucho;Normal;10;<55
+F;2-5 hr;1;Mucho;Mucho;Buena;10;<55
+M;<2 hr;0;Poco;Normal;Muy Mala;8;<55
+M;<2 hr;0;Demasiado;Mucho;Muy Buena;10;<55
+M;<2 hr;1;Mucho;Mucho;Normal;10;<55
+F;>10 hr;0;Poco;Poco;Normal;1;>=55
+F;2-5 hr;0;Mucho;Mucho;Buena;4;<55
+F;2-5 hr;0;Mucho;Demasiado;Muy Buena;3;>=55
+M;2-5 hr;0;Normal;Normal;Buena;3;>=55
+F;5-10 hr;0;Normal;Normal;Suficiente;0;>=55
+F;5-10 hr;0;Normal;Normal;Normal;6;>=55
+M;5-10 hr;0;Poco;Mucho;Suficiente;6;>=55
+M;2-5 hr;0;Mucho;Normal;Suficiente;9;>=55
+M;2-5 hr;0;Normal;Poco;Muy Buena;2;>=55
+F;5-10 hr;0;Poco;Poco;Normal;0;>=55
+F;2-5 hr;1;Mucho;Normal;Muy Buena;10;>=55
+F;>10 hr;0;Nada;Poco;Normal;1;>=55
+M;5-10 hr;0;Mucho;Poco;Buena;5;>=55
+M;<2 hr;0;Mucho;Normal;Muy Buena;4;>=55
+F;2-5 hr;0;Normal;Mucho;Suficiente;9;<55
+F;2-5 hr;0;Mucho;Demasiado;Suficiente;10;<55
+F;>10 hr;0;Normal;Normal;Normal;2;>=55
+M;<2 hr;0;Mucho;Poco;Muy Mala;5;>=55
+F;2-5 hr;0;Poco;Mucho;Buena;10;>=55
+M;<2 hr;0;Nada;Nada;Muy Buena;0;<55
+F;5-10 hr;0;Normal;Normal;Normal;2;>=55
+F;>10 hr;0;Poco;Poco;Muy Buena;0;>=55
+M;2-5 hr;1;Mucho;Mucho;Normal;10;>=55
+F;2-5 hr;1;Mucho;Normal;Normal;6;>=55
+M;<2 hr;0;Demasiado;Normal;Muy Buena;1;>=55
+M;<2 hr;1;Normal;Mucho;Buena;10;<55
+M;2-5 hr;1;Demasiado;Normal;Muy Buena;2;>=55
+F;2-5 hr;1;Mucho;Normal;Normal;10;<55
+F;2-5 hr;1;Poco;Mucho;Normal;9;<55
+F;2-5 hr;0;Mucho;Nada;Suficiente;10;>=55
+M;2-5 hr;1;Demasiado;Poco;Buena;3;>=55
+F;2-5 hr;1;Poco;Poco;Muy Mala;10;>=55
+F;5-10 hr;2;Nada;Poco;Normal;10;>=55
+F;5-10 hr;1;Nada;Poco;Normal;10;>=55
+F;2-5 hr;0;Normal;Normal;Muy Mala;7;<55
+F;5-10 hr;0;Normal;Mucho;Muy Buena;9;<55
+F;5-10 hr;0;Normal;Mucho;Muy Buena;0;<55
+F;2-5 hr;0;Poco;Poco;Normal;10;<55
+F;5-10 hr;0;Normal;Poco;Normal;3;>=55
+F;5-10 hr;0;Mucho;Normal;Muy Buena;1;>=55
+M;5-10 hr;0;Normal;Normal;Normal;5;>=55
+M;<2 hr;0;Normal;Demasiado;Muy Buena;3;>=55
+M;<2 hr;0;Mucho;Demasiado;Buena;8;<55
+F;5-10 hr;0;Mucho;Mucho;Buena;7;<55
+F;5-10 hr;0;Normal;Normal;Buena;4;>=55
+M;>10 hr;0;Demasiado;Demasiado;Muy Buena;2;<55
+F;5-10 hr;0;Mucho;Normal;Muy Buena;7;>=55
+F;2-5 hr;0;Normal;Mucho;Buena;0;<55
+F;2-5 hr;0;Normal;Normal;Suficiente;5;<55
+F;>10 hr;0;Mucho;Mucho;Buena;0;<55
+F;5-10 hr;0;Mucho;Demasiado;Muy Buena;3;>=55
+F;5-10 hr;1;Mucho;Normal;Muy Buena;10;>=55
+F;2-5 hr;0;Normal;Poco;Suficiente;9;<55
+F;>10 hr;0;Normal;Normal;Muy Mala;2;>=55
+F;5-10 hr;1;Normal;Mucho;Normal;3;>=55
+M;2-5 hr;1;Normal;Normal;Suficiente;6;<55
+M;2-5 hr;0;Normal;Normal;Muy Buena;1;>=55
+F;2-5 hr;1;Normal;Nada;Buena;0;<55
+F;5-10 hr;0;Normal;Normal;Normal;4;<55
+F;5-10 hr;0;Mucho;Normal;Muy Mala;5;>=55
+M;5-10 hr;0;Normal;Poco;Buena;0;>=55
+M;5-10 hr;0;Mucho;Demasiado;Muy Buena;0;<55
+F;5-10 hr;0;Mucho;Normal;Buena;1;>=55
+M;<2 hr;1;Demasiado;Demasiado;Muy Buena;2;>=55
+M;2-5 hr;0;Demasiado;Mucho;Normal;4;>=55
+M;<2 hr;1;Normal;Normal;Normal;7;<55
+M;<2 hr;1;Mucho;Mucho;Muy Buena;4;<55
+M;2-5 hr;0;Demasiado;Demasiado;Suficiente;4;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Buena;0;<55
+F;2-5 hr;0;Normal;Normal;Muy Buena;6;>=55
+F;2-5 hr;0;Poco;Normal;Muy Buena;6;>=55
+M;<2 hr;0;Normal;Poco;Normal;4;<55
+F;5-10 hr;0;Normal;Poco;Buena;0;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Buena;5;>=55
+M;2-5 hr;1;Mucho;Normal;Muy Buena;4;>=55
+F;2-5 hr;0;Normal;Poco;Normal;0;<55
+F;2-5 hr;0;Normal;Mucho;Muy Mala;0;>=55
+F;2-5 hr;0;Poco;Poco;Normal;0;>=55
+M;2-5 hr;0;Normal;Mucho;Normal;4;<55
+M;5-10 hr;0;Poco;Poco;Muy Buena;0;>=55
+F;<2 hr;1;Poco;Nada;Muy Mala;0;<55
+F;<2 hr;0;Poco;Normal;Buena;0;<55
+F;2-5 hr;0;Poco;Poco;Muy Buena;10;>=55
+F;2-5 hr;2;Poco;Poco;Normal;4;<55
+M;<2 hr;0;Normal;Normal;Normal;6;>=55
+F;5-10 hr;0;Mucho;Normal;Normal;6;>=55
+F;<2 hr;0;Demasiado;Demasiado;Muy Mala;10;<55
+F;5-10 hr;0;Mucho;Mucho;Muy Mala;0;>=55
+F;5-10 hr;0;Normal;Poco;Buena;2;<55
+F;5-10 hr;2;Mucho;Normal;Normal;4;>=55
+F;2-5 hr;0;Mucho;Normal;Suficiente;4;<55
+F;2-5 hr;0;Nada;Normal;Muy Mala;1;>=55
+F;2-5 hr;0;Demasiado;Mucho;Muy Mala;10;<55
+M;2-5 hr;0;Poco;Mucho;Suficiente;2;>=55
+M;<2 hr;0;Mucho;Normal;Muy Buena;5;<55
+M;2-5 hr;0;Mucho;Normal;Normal;2;<55
+M;<2 hr;1;Normal;Poco;Muy Buena;5;<55
+M;<2 hr;1;Mucho;Normal;Normal;10;<55
+F;5-10 hr;0;Normal;Normal;Buena;2;<55
+F;<2 hr;0;Mucho;Normal;Muy Buena;7;<55
+F;5-10 hr;1;Mucho;Poco;Muy Buena;0;<55
+F;2-5 hr;0;Normal;Mucho;Muy Mala;0;<55
+F;2-5 hr;1;Nada;Nada;Muy Buena;0;<55
+M;2-5 hr;2;Demasiado;Mucho;Buena;10;<55
+M;<2 hr;0;Mucho;Demasiado;Suficiente;3;>=55
+M;<2 hr;0;Mucho;Nada;Muy Buena;0;<55
+M;<2 hr;0;Poco;Normal;Muy Buena;5;<55
+F;2-5 hr;0;Normal;Mucho;Normal;4;>=55
+F;2-5 hr;0;Normal;Normal;Normal;3;>=55
+F;2-5 hr;0;Normal;Poco;Normal;4;>=55
+F;2-5 hr;0;Normal;Poco;Muy Buena;0;>=55
+F;2-5 hr;0;Nada;Mucho;Muy Mala;3;>=55
+M;2-5 hr;0;Poco;Poco;Muy Mala;0;>=55
+M;2-5 hr;0;Demasiado;Nada;Muy Buena;0;>=55
+M;<2 hr;0;Normal;Normal;Muy Buena;3;>=55
+M;2-5 hr;0;Mucho;Normal;Normal;0;>=55
+M;5-10 hr;0;Demasiado;Poco;Normal;1;>=55
+F;<2 hr;0;Mucho;Mucho;Suficiente;6;>=55
+F;5-10 hr;0;Poco;Normal;Suficiente;10;>=55
+F;2-5 hr;0;Normal;Poco;Buena;2;>=55
+M;<2 hr;0;Nada;Normal;Muy Buena;6;>=55
+M;<2 hr;0;Mucho;Poco;Muy Buena;5;>=55
+M;2-5 hr;0;Demasiado;Nada;Muy Buena;4;>=55
+F;<2 hr;0;Poco;Poco;Muy Buena;6;>=55
+M;<2 hr;0;Poco;Mucho;Muy Mala;0;>=55
+M;2-5 hr;0;Normal;Nada;Muy Buena;3;>=55
+M;2-5 hr;0;Normal;Poco;Suficiente;4;>=55
+F;<2 hr;0;Demasiado;Nada;Muy Buena;4;>=55
+M;5-10 hr;0;Mucho;Normal;Muy Buena;2;>=55
+F;2-5 hr;0;Normal;Normal;Normal;10;<55
+M;<2 hr;0;Mucho;Normal;Muy Buena;6;>=55
+M;2-5 hr;0;Normal;Normal;Muy Buena;0;>=55
+M;<2 hr;0;Mucho;Nada;Muy Mala;0;<55
+F;2-5 hr;1;Normal;Normal;Muy Buena;5;>=55
+F;2-5 hr;0;Poco;Poco;Muy Buena;4;>=55
+F;2-5 hr;0;Normal;Demasiado;Normal;6;>=55
+M;>10 hr;0;Poco;Poco;Suficiente;2;>=55
+M;2-5 hr;0;Normal;Normal;Muy Buena;4;>=55
+F;2-5 hr;0;Mucho;Mucho;Normal;3;>=55
+F;2-5 hr;0;Normal;Normal;Buena;0;>=55
+F;2-5 hr;0;Normal;Normal;Muy Buena;0;>=55
+M;<2 hr;0;Demasiado;Demasiado;Muy Buena;4;<55
+F;<2 hr;0;Normal;Mucho;Muy Buena;2;>=55
+F;<2 hr;0;Normal;Mucho;Muy Mala;0;>=55
+F;2-5 hr;0;Normal;Mucho;Suficiente;4;>=55
+F;2-5 hr;0;Normal;Poco;Muy Mala;2;>=55
+M;2-5 hr;0;Poco;Poco;Muy Buena;8;>=55
+M;2-5 hr;0;Normal;Poco;Muy Buena;0;>=55
+F;<2 hr;0;Demasiado;Demasiado;Muy Buena;0;>=55
+F;2-5 hr;0;Mucho;Normal;Muy Mala;0;<55
+F;5-10 hr;0;Mucho;Mucho;Buena;0;>=55
+F;2-5 hr;0;Mucho;Mucho;Suficiente;0;>=55
+F;2-5 hr;0;Mucho;Normal;Muy Mala;1;>=55
+M;>10 hr;0;Normal;Normal;Normal;6;>=55
+F;>10 hr;0;Normal;Normal;Muy Buena;0;<55
+F;2-5 hr;0;Nada;Normal;Buena;2;>=55
+F;>10 hr;0;Mucho;Poco;Normal;6;>=55
+M;>10 hr;0;Normal;Poco;Muy Buena;2;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Buena;2;>=55
+M;>10 hr;0;Mucho;Normal;Muy Mala;0;>=55
+F;>10 hr;0;Poco;Normal;Normal;1;>=55
+F;2-5 hr;0;Mucho;Normal;Normal;6;>=55
+M;5-10 hr;0;Normal;Poco;Muy Buena;2;<55
+F;2-5 hr;0;Mucho;Mucho;Muy Buena;3;>=55
+M;2-5 hr;0;Normal;Normal;Buena;6;>=55
+F;2-5 hr;0;Normal;Mucho;Suficiente;6;>=55
+F;5-10 hr;0;Normal;Normal;Muy Mala;4;>=55
+M;2-5 hr;0;Mucho;Poco;Normal;3;>=55
+M;2-5 hr;0;Nada;Normal;Muy Buena;6;<55
+F;5-10 hr;0;Normal;Normal;Buena;2;>=55
+F;<2 hr;0;Demasiado;Demasiado;Muy Mala;2;>=55
+F;2-5 hr;0;Normal;Normal;Suficiente;0;>=55
+F;2-5 hr;0;Normal;Normal;Muy Mala;2;>=55
+M;>10 hr;0;Normal;Mucho;Buena;2;>=55
+F;>10 hr;0;Nada;Poco;Muy Mala;2;>=55
+F;2-5 hr;0;Normal;Demasiado;Muy Buena;0;>=55
+F;<2 hr;0;Normal;Mucho;Muy Mala;4;>=55
+F;5-10 hr;0;Normal;Demasiado;Normal;2;>=55
+M;<2 hr;0;Demasiado;Demasiado;Buena;10;<55
+M;<2 hr;0;Normal;Normal;Muy Buena;4;>=55
+M;2-5 hr;0;Mucho;Mucho;Muy Mala;2;>=55
+F;>10 hr;0;Normal;Normal;Buena;10;<55
+F;>10 hr;0;Nada;Poco;Normal;4;<55
+M;5-10 hr;0;Normal;Normal;Muy Buena;4;>=55
+M;>10 hr;0;Normal;Demasiado;Muy Mala;8;>=55
+M;<2 hr;0;Demasiado;Normal;Buena;4;>=55
+F;5-10 hr;0;Nada;Poco;Suficiente;3;>=55
+F;2-5 hr;1;Nada;Poco;Muy Buena;10;<55
+M;<2 hr;0;Demasiado;Poco;Normal;10;>=55
+M;2-5 hr;0;Mucho;Poco;Muy Buena;4;<55
+M;2-5 hr;0;Mucho;Mucho;Muy Buena;6;>=55
+M;2-5 hr;0;Mucho;Normal;Suficiente;0;>=55
+M;<2 hr;0;Mucho;Poco;Muy Buena;6;>=55
+M;2-5 hr;1;Poco;Mucho;Muy Buena;6;>=55
+M;<2 hr;0;Mucho;Normal;Buena;4;>=55
+F;2-5 hr;0;Poco;Normal;Muy Mala;0;>=55
+M;>10 hr;0;Demasiado;Mucho;Muy Buena;6;>=55
+M;<2 hr;0;Mucho;Mucho;Muy Buena;4;>=55
+F;2-5 hr;0;Mucho;Mucho;Muy Buena;0;>=55
+M;<2 hr;0;Demasiado;Demasiado;Muy Buena;2;<55
+F;2-5 hr;2;Mucho;Poco;Muy Buena;5;>=55
+M;5-10 hr;0;Poco;Normal;Muy Mala;4;>=55
+F;5-10 hr;0;Poco;Poco;Muy Buena;5;>=55
+F;<2 hr;0;Poco;Poco;Muy Buena;8;>=55
+F;<2 hr;0;Normal;Normal;Buena;6;>=55
+F;<2 hr;0;Mucho;Mucho;Muy Buena;2;>=55
+F;<2 hr;0;Poco;Nada;Muy Buena;10;>=55
+M;<2 hr;0;Poco;Nada;Suficiente;3;>=55
+F;<2 hr;1;Normal;Mucho;Muy Buena;10;>=55
+F;5-10 hr;0;Normal;Normal;Muy Buena;4;>=55
+M;2-5 hr;0;Mucho;Demasiado;Muy Buena;2;<55
+F;2-5 hr;0;Nada;Normal;Normal;0;>=55
+M;<2 hr;0;Normal;Mucho;Buena;6;>=55
+F;5-10 hr;0;Normal;Normal;Muy Buena;10;>=55
+F;<2 hr;0;Normal;Normal;Muy Mala;8;>=55
+F;<2 hr;0;Normal;Poco;Muy Buena;4;<55
+M;2-5 hr;2;Mucho;Mucho;Muy Buena;0;<55
+F;<2 hr;0;Normal;Poco;Muy Buena;6;>=55
+F;<2 hr;1;Demasiado;Demasiado;Muy Mala;2;<55
+M;>10 hr;0;Poco;Poco;Normal;6;>=55
+F;2-5 hr;0;Normal;Poco;Muy Mala;10;<55
+M;5-10 hr;0;Normal;Normal;Muy Buena;0;>=55
+M;<2 hr;0;Normal;Normal;Suficiente;4;>=55
+F;<2 hr;0;Mucho;Mucho;Muy Mala;6;>=55
+M;<2 hr;0;Mucho;Demasiado;Muy Buena;10;<55
+F;2-5 hr;0;Mucho;Poco;Muy Buena;5;>=55
+F;<2 hr;0;Mucho;Poco;Muy Buena;0;<55
+F;2-5 hr;1;Normal;Poco;Normal;4;>=55
+F;2-5 hr;0;Normal;Poco;Muy Buena;3;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Mala;6;>=55
+M;<2 hr;0;Normal;Poco;Muy Buena;10;<55
+M;<2 hr;0;Demasiado;Demasiado;Muy Buena;0;>=55
+M;<2 hr;2;Normal;Demasiado;Buena;0;<55
+M;<2 hr;1;Mucho;Mucho;Muy Buena;6;<55
+F;5-10 hr;0;Poco;Nada;Normal;2;>=55
+M;<2 hr;0;Demasiado;Mucho;Buena;2;>=55
+F;<2 hr;0;Poco;Nada;Buena;5;>=55
+M;2-5 hr;0;Mucho;Mucho;Muy Mala;0;<55
+M;<2 hr;0;Poco;Poco;Normal;3;>=55
+M;2-5 hr;1;Demasiado;Demasiado;Muy Buena;0;<55
+M;<2 hr;2;Mucho;Demasiado;Muy Buena;0;<55
+M;<2 hr;1;Normal;Poco;Muy Buena;8;<55
+M;2-5 hr;2;Mucho;Mucho;Normal;4;<55
+M;<2 hr;0;Mucho;Mucho;Muy Buena;2;<55
+M;<2 hr;1;Normal;Normal;Suficiente;2;<55
+M;2-5 hr;0;Normal;Demasiado;Muy Buena;0;<55
+M;2-5 hr;0;Normal;Demasiado;Buena;6;>=55
+F;2-5 hr;0;Poco;Normal;Normal;1;>=55
+F;2-5 hr;0;Nada;Demasiado;Buena;0;>=55
+F;2-5 hr;0;Mucho;Poco;Normal;0;>=55
+M;<2 hr;1;Mucho;Demasiado;Suficiente;4;<55
+M;2-5 hr;0;Normal;Poco;Normal;0;>=55
+F;2-5 hr;0;Normal;Demasiado;Normal;0;>=55
+F;2-5 hr;0;Mucho;Demasiado;Buena;0;>=55
+M;2-5 hr;0;Mucho;Mucho;Buena;6;>=55
+M;<2 hr;0;Normal;Normal;Normal;4;>=55
+M;2-5 hr;0;Poco;Normal;Normal;0;>=55
+F;2-5 hr;0;Mucho;Poco;Muy Buena;0;>=55
+F;2-5 hr;0;Normal;Normal;Muy Mala;10;>=55
+F;2-5 hr;0;Poco;Poco;Muy Mala;0;>=55
+M;2-5 hr;0;Normal;Mucho;Buena;4;>=55
+M;<2 hr;0;Normal;Normal;Normal;3;>=55
+M;2-5 hr;0;Poco;Normal;Muy Buena;0;>=55
+F;2-5 hr;0;Normal;Normal;Normal;6;>=55
+M;2-5 hr;0;Nada;Normal;Normal;6;<55
+F;2-5 hr;0;Normal;Normal;Suficiente;4;>=55
+F;2-5 hr;0;Normal;Normal;Normal;0;>=55
+M;2-5 hr;0;Mucho;Mucho;Muy Buena;10;>=55
+M;<2 hr;0;Normal;Poco;Muy Buena;0;<55
+F;2-5 hr;0;Normal;Poco;Muy Buena;8;>=55
+M;<2 hr;0;Poco;Normal;Muy Buena;4;>=55
+M;<2 hr;0;Normal;Mucho;Normal;10;>=55
+F;<2 hr;1;Poco;Mucho;Suficiente;10;>=55
+F;2-5 hr;0;Demasiado;Poco;Normal;4;>=55
+F;2-5 hr;0;Mucho;Normal;Buena;3;>=55
+F;2-5 hr;0;Mucho;Mucho;Muy Mala;3;>=55
+F;<2 hr;0;Normal;Poco;Normal;2;>=55
+F;>10 hr;0;Normal;Demasiado;Muy Buena;4;>=55
+F;<2 hr;0;Normal;Poco;Muy Buena;2;>=55
+F;5-10 hr;0;Mucho;Poco;Buena;0;>=55
+F;>10 hr;0;Normal;Normal;Normal;4;>=55
+M;2-5 hr;0;Normal;Demasiado;Normal;5;>=55
+F;2-5 hr;0;Normal;Mucho;Buena;0;>=55
+F;<2 hr;0;Poco;Nada;Normal;2;>=55
+F;2-5 hr;0;Mucho;Demasiado;Muy Mala;10;<55
+M;2-5 hr;0;Poco;Mucho;Buena;10;<55
+F;<2 hr;0;Normal;Normal;Normal;4;>=55
+F;5-10 hr;0;Normal;Normal;Buena;0;>=55
+F;2-5 hr;0;Poco;Demasiado;Muy Buena;6;>=55
+F;5-10 hr;0;Normal;Mucho;Muy Buena;3;>=55
+F;2-5 hr;0;Normal;Nada;Normal;5;>=55
+F;2-5 hr;0;Normal;Normal;Buena;4;<55
+F;2-5 hr;0;Normal;Mucho;Normal;1;>=55
+M;2-5 hr;0;Normal;Poco;Normal;3;>=55
+F;5-10 hr;0;Poco;Normal;Normal;0;>=55
+M;2-5 hr;0;Demasiado;Poco;Muy Mala;0;>=55
+M;2-5 hr;0;Demasiado;Demasiado;Suficiente;0;>=55
+M;2-5 hr;0;Poco;Mucho;Muy Mala;0;>=55
+M;2-5 hr;0;Mucho;Poco;Muy Buena;2;<55
+M;5-10 hr;0;Normal;Normal;Suficiente;3;>=55
+M;2-5 hr;0;Mucho;Poco;Buena;3;>=55
+F;<2 hr;0;Demasiado;Poco;Muy Buena;4;<55
+F;2-5 hr;1;Normal;Normal;Normal;10;<55
+F;2-5 hr;1;Normal;Nada;Muy Buena;10;<55
+F;<2 hr;1;Nada;Nada;Normal;10;<55
+M;<2 hr;1;Mucho;Normal;Muy Mala;10;<55
+M;<2 hr;0;Poco;Nada;Muy Buena;6;<55
+F;5-10 hr;0;Normal;Poco;Buena;10;<55
+F;<2 hr;0;Normal;Demasiado;Muy Buena;4;>=55
+F;<2 hr;1;Demasiado;Mucho;Muy Buena;10;<55
+M;2-5 hr;0;Demasiado;Mucho;Suficiente;10;<55
+F;<2 hr;1;Nada;Poco;Muy Mala;8;<55
+F;2-5 hr;0;Normal;Poco;Buena;5;>=55
+M;<2 hr;0;Mucho;Demasiado;Normal;2;>=55
+F;2-5 hr;0;Normal;Nada;Muy Buena;2;>=55
+M;5-10 hr;0;Normal;Normal;Muy Mala;3;>=55
+F;5-10 hr;0;Poco;Poco;Muy Buena;10;>=55
+F;2-5 hr;0;Normal;Poco;Buena;10;<55
+F;5-10 hr;0;Mucho;Mucho;Normal;5;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Buena;4;>=55
+M;<2 hr;0;Poco;Poco;Suficiente;2;>=55
+M;2-5 hr;0;Normal;Normal;Muy Buena;8;<55
+M;<2 hr;0;Mucho;Demasiado;Muy Buena;8;<55
+M;2-5 hr;1;Normal;Normal;Suficiente;4;<55
+M;<2 hr;2;Poco;Demasiado;Muy Buena;4;<55
+M;<2 hr;0;Normal;Poco;Normal;6;>=55
+F;>10 hr;0;Poco;Normal;Buena;2;>=55
+M;2-5 hr;1;Mucho;Demasiado;Muy Buena;3;>=55
+F;5-10 hr;0;Normal;Mucho;Muy Buena;2;>=55
+F;5-10 hr;0;Mucho;Normal;Normal;4;>=55
+F;2-5 hr;0;Poco;Normal;Muy Buena;5;>=55
+M;2-5 hr;0;Normal;Nada;Muy Mala;3;>=55
+M;2-5 hr;0;Poco;Mucho;Buena;2;>=55
+M;<2 hr;0;Poco;Poco;Buena;0;<55
+F;>10 hr;0;Mucho;Nada;Suficiente;4;>=55
+F;2-5 hr;0;Poco;Normal;Suficiente;8;>=55
+F;2-5 hr;0;Nada;Poco;Suficiente;2;>=55
+M;2-5 hr;0;Normal;Poco;Normal;5;>=55
+M;5-10 hr;0;Normal;Poco;Normal;2;>=55
+F;5-10 hr;0;Poco;Normal;Buena;2;>=55
+F;5-10 hr;0;Normal;Normal;Normal;4;>=55
+M;<2 hr;0;Mucho;Mucho;Buena;8;<55
+M;2-5 hr;0;Poco;Demasiado;Muy Mala;6;>=55
+M;2-5 hr;0;Mucho;Demasiado;Muy Buena;6;>=55
+F;2-5 hr;0;Normal;Demasiado;Normal;10;<55
+F;2-5 hr;0;Normal;Demasiado;Muy Buena;6;>=55
+F;>10 hr;0;Demasiado;Demasiado;Suficiente;1;>=55
+M;2-5 hr;0;Demasiado;Poco;Muy Mala;2;>=55
+F;2-5 hr;0;Poco;Demasiado;Muy Mala;2;>=55
+F;2-5 hr;0;Normal;Normal;Muy Mala;0;>=55
+F;2-5 hr;0;Mucho;Mucho;Muy Buena;6;>=55
+M;<2 hr;0;Poco;Mucho;Normal;5;>=55
+F;2-5 hr;1;Mucho;Mucho;Buena;6;>=55
+F;5-10 hr;0;Poco;Normal;Muy Mala;1;>=55
+F;2-5 hr;1;Normal;Normal;Normal;0;<55
+M;<2 hr;0;Poco;Normal;Muy Mala;0;<55
+M;<2 hr;0;Mucho;Mucho;Buena;10;>=55
+M;<2 hr;0;Mucho;Mucho;Normal;10;>=55
+F;>10 hr;0;Poco;Poco;Normal;2;>=55
+F;2-5 hr;0;Mucho;Mucho;Buena;5;>=55
+F;2-5 hr;0;Normal;Nada;Muy Buena;10;>=55
+F;5-10 hr;0;Normal;Normal;Normal;0;>=55
+M;5-10 hr;0;Poco;Mucho;Suficiente;1;>=55
+F;5-10 hr;0;Poco;Poco;Normal;2;>=55
+F;>10 hr;0;Nada;Poco;Normal;0;>=55
+M;5-10 hr;0;Mucho;Poco;Buena;0;>=55
+F;2-5 hr;0;Normal;Mucho;Suficiente;2;>=55
+F;2-5 hr;0;Mucho;Demasiado;Suficiente;4;>=55
+F;>10 hr;0;Normal;Normal;Normal;0;>=55
+M;<2 hr;0;Mucho;Poco;Muy Mala;2;>=55
+F;2-5 hr;0;Poco;Mucho;Buena;1;>=55
+M;<2 hr;0;Nada;Nada;Muy Buena;5;>=55
+M;5-10 hr;1;Normal;Nada;Muy Buena;4;>=55
+M;<2 hr;2;Demasiado;Normal;Muy Buena;1;>=55
+M;2-5 hr;0;Demasiado;Normal;Muy Buena;0;>=55
+F;2-5 hr;0;Normal;Normal;Muy Mala;1;>=55
+F;2-5 hr;0;Poco;Nada;Normal;2;>=55
+F;<2 hr;0;Poco;Mucho;Muy Mala;8;>=55
+F;2-5 hr;0;Nada;Mucho;Normal;8;>=55
+M;2-5 hr;0;Mucho;Mucho;Muy Mala;9;<55
+F;<2 hr;0;Mucho;Mucho;Muy Mala;4;>=55
+F;2-5 hr;0;Poco;Normal;Suficiente;3;>=55
+M;<2 hr;0;Poco;Demasiado;Muy Buena;5;>=55
+F;5-10 hr;0;Demasiado;Demasiado;Muy Buena;10;>=55
+F;2-5 hr;2;Normal;Mucho;Buena;2;<55
+F;<2 hr;0;Normal;Demasiado;Muy Buena;2;<55
+F;2-5 hr;0;Poco;Poco;Normal;6;>=55
+F;5-10 hr;0;Normal;Poco;Normal;0;<55
+F;5-10 hr;0;Mucho;Normal;Muy Buena;3;>=55
+F;5-10 hr;0;Normal;Normal;Suficiente;1;>=55
+F;5-10 hr;0;Demasiado;Demasiado;Suficiente;3;>=55
+M;5-10 hr;0;Normal;Normal;Normal;0;>=55
+M;<2 hr;0;Normal;Demasiado;Muy Buena;0;>=55
+M;<2 hr;0;Mucho;Demasiado;Buena;2;<55
+F;5-10 hr;0;Mucho;Mucho;Buena;3;>=55
+F;<2 hr;0;Poco;Demasiado;Muy Buena;2;>=55
+M;>10 hr;0;Demasiado;Demasiado;Muy Buena;0;>=55
+M;<2 hr;0;Normal;Mucho;Muy Buena;0;<55
+F;2-5 hr;0;Poco;Demasiado;Suficiente;2;<55
+F;5-10 hr;0;Mucho;Normal;Muy Buena;0;>=55
+F;2-5 hr;0;Normal;Normal;Suficiente;3;>=55
+F;>10 hr;0;Mucho;Mucho;Buena;6;>=55
+F;5-10 hr;0;Mucho;Demasiado;Muy Buena;8;>=55
+F;2-5 hr;0;Normal;Poco;Suficiente;0;>=55
+F;>10 hr;0;Normal;Normal;Muy Mala;4;>=55
+M;2-5 hr;0;Normal;Normal;Suficiente;0;>=55
+F;2-5 hr;0;Normal;Nada;Buena;5;>=55
+F;5-10 hr;0;Mucho;Normal;Muy Mala;4;>=55
+M;5-10 hr;0;Normal;Poco;Buena;1;>=55
+M;5-10 hr;0;Mucho;Demasiado;Muy Buena;2;>=55
+F;5-10 hr;0;Mucho;Normal;Buena;0;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Mala;10;>=55
+F;2-5 hr;0;Normal;Demasiado;Buena;1;>=55
+F;<2 hr;1;Poco;Normal;Muy Buena;10;>=55
+F;<2 hr;1;Nada;Poco;Normal;4;>=55
+F;5-10 hr;2;Normal;Poco;Muy Buena;0;>=55
+M;2-5 hr;0;Mucho;Mucho;Normal;10;>=55
+M;2-5 hr;0;Normal;Demasiado;Suficiente;0;>=55
+M;5-10 hr;0;Mucho;Poco;Buena;2;>=55
+F;2-5 hr;0;Poco;Poco;Normal;2;>=55
+M;2-5 hr;2;Normal;Normal;Buena;10;<55
+F;5-10 hr;0;Poco;Poco;Normal;8;>=55
+F;<2 hr;1;Poco;Demasiado;Muy Buena;2;>=55
+F;5-10 hr;0;Normal;Mucho;Suficiente;3;>=55
+M;<2 hr;0;Nada;Normal;Buena;3;>=55
+M;<2 hr;0;Normal;Mucho;Buena;10;>=55
+F;2-5 hr;0;Nada;Mucho;Buena;10;>=55
+F;<2 hr;1;Normal;Nada;Muy Buena;5;<55
+F;2-5 hr;0;Nada;Poco;Muy Mala;4;>=55
+F;<2 hr;0;Normal;Normal;Muy Buena;6;>=55
+F;<2 hr;1;Nada;Normal;Suficiente;6;<55
+F;2-5 hr;0;Demasiado;Poco;Muy Buena;2;>=55
+F;<2 hr;0;Normal;Mucho;Muy Mala;0;<55
+M;2-5 hr;0;Normal;Poco;Suficiente;5;>=55
+M;5-10 hr;0;Mucho;Normal;Muy Buena;0;>=55
+F;2-5 hr;1;Demasiado;Mucho;Muy Buena;0;<55
+F;<2 hr;1;Mucho;Mucho;Muy Buena;0;<55
+F;<2 hr;0;Demasiado;Nada;Muy Buena;2;>=55
+F;>10 hr;0;Poco;Nada;Muy Mala;4;>=55
+F;2-5 hr;0;Mucho;Normal;Buena;0;<55
+F;<2 hr;1;Mucho;Normal;Suficiente;4;<55
+F;<2 hr;0;Poco;Normal;Suficiente;0;>=55
+F;<2 hr;0;Demasiado;Demasiado;Normal;5;>=55
+F;<2 hr;0;Nada;Normal;Buena;2;>=55
+M;2-5 hr;0;Mucho;Demasiado;Normal;0;<55
+M;2-5 hr;0;Mucho;Normal;Muy Buena;4;<55
+M;2-5 hr;0;Normal;Mucho;Suficiente;0;>=55
+M;2-5 hr;0;Normal;Mucho;Suficiente;7;<55
+M;2-5 hr;0;Mucho;Demasiado;Buena;8;<55
+M;<2 hr;0;Demasiado;Demasiado;Normal;8;<55
+F;5-10 hr;0;Poco;Poco;Buena;6;>=55
+F;<2 hr;0;Nada;Poco;Muy Mala;3;>=55
+F;2-5 hr;0;Demasiado;Mucho;Muy Mala;2;>=55
+F;2-5 hr;0;Mucho;Demasiado;Buena;2;>=55
+F;5-10 hr;1;Normal;Poco;Buena;0;<55
+F;5-10 hr;1;Normal;Poco;Buena;3;<55
+F;2-5 hr;0;Mucho;Poco;Suficiente;0;<55
+F;2-5 hr;0;Mucho;Normal;Suficiente;0;>=55
+M;<2 hr;0;Demasiado;Demasiado;Normal;3;>=55
+F;>10 hr;0;Normal;Poco;Muy Mala;0;>=55
+F;5-10 hr;0;Mucho;Normal;Muy Buena;2;<55
+F;2-5 hr;0;Normal;Normal;Suficiente;5;>=55
+F;<2 hr;0;Poco;Poco;Suficiente;2;>=55
+F;2-5 hr;0;Poco;Nada;Suficiente;6;>=55
+F;5-10 hr;0;Mucho;Normal;Muy Buena;2;>=55
+M;<2 hr;0;Mucho;Mucho;Muy Buena;6;>=55
+F;2-5 hr;1;Mucho;Mucho;Muy Buena;9;<55
+M;<2 hr;0;Poco;Normal;Buena;5;>=55
+M;<2 hr;0;Normal;Normal;Buena;6;>=55
+M;2-5 hr;0;Normal;Nada;Normal;4;>=55
+F;2-5 hr;0;Demasiado;Mucho;Muy Mala;4;>=55
+F;2-5 hr;1;Mucho;Mucho;Muy Buena;2;>=55
+F;<2 hr;0;Normal;Poco;Buena;1;>=55
+M;<2 hr;0;Mucho;Normal;Buena;4;<55
+M;<2 hr;0;Poco;Mucho;Normal;2;>=55
+F;<2 hr;0;Mucho;Normal;Muy Buena;2;<55
+F;<2 hr;0;Demasiado;Normal;Muy Buena;4;<55
+F;<2 hr;1;Mucho;Mucho;Suficiente;0;<55
+F;<2 hr;0;Demasiado;Normal;Normal;2;>=55
+F;<2 hr;0;Poco;Nada;Buena;0;<55
+F;2-5 hr;0;Mucho;Demasiado;Muy Mala;5;>=55
+F;<2 hr;0;Normal;Mucho;Muy Mala;6;<55
+F;2-5 hr;0;Normal;Demasiado;Buena;6;>=55
+F;<2 hr;1;Mucho;Normal;Normal;1;<55
+F;5-10 hr;2;Normal;Poco;Suficiente;6;<55
+F;5-10 hr;1;Normal;Nada;Normal;6;<55
+M;<2 hr;1;Mucho;Normal;Buena;0;<55
+F;<2 hr;1;Poco;Normal;Suficiente;4;<55
+F;2-5 hr;1;Nada;Mucho;Muy Mala;10;<55
+F;2-5 hr;0;Normal;Poco;Normal;2;<55
+F;<2 hr;0;Mucho;Mucho;Muy Buena;5;<55
+F;2-5 hr;0;Mucho;Demasiado;Normal;0;<55
+F;<2 hr;0;Demasiado;Mucho;Buena;0;>=55
+F;<2 hr;0;Mucho;Mucho;Buena;2;>=55
+M;>10 hr;1;Mucho;Demasiado;Muy Buena;0;<55
+F;<2 hr;0;Poco;Demasiado;Muy Buena;0;>=55
+M;<2 hr;1;Normal;Demasiado;Muy Mala;10;<55
+M;<2 hr;0;Poco;Demasiado;Muy Buena;2;>=55
+M;>10 hr;1;Normal;Demasiado;Normal;2;<55
+F;>10 hr;0;Poco;Nada;Muy Buena;5;>=55
+F;5-10 hr;0;Mucho;Demasiado;Muy Mala;2;>=55
+F;<2 hr;0;Mucho;Demasiado;Muy Buena;3;>=55
+F;2-5 hr;1;Normal;Mucho;Normal;8;<55
+F;2-5 hr;0;Mucho;Demasiado;Buena;1;<55
+F;2-5 hr;1;Normal;Poco;Muy Buena;9;<55
+F;<2 hr;0;Nada;Normal;Muy Mala;0;<55
+F;<2 hr;0;Nada;Normal;Normal;2;<55
+F;<2 hr;0;Mucho;Demasiado;Suficiente;0;>=55
+F;2-5 hr;1;Normal;Poco;Muy Mala;8;<55
+M;2-5 hr;0;Poco;Nada;Suficiente;6;<55
+F;2-5 hr;0;Normal;Poco;Muy Buena;6;<55
+F;2-5 hr;0;Normal;Mucho;Normal;4;<55
+F;2-5 hr;0;Poco;Nada;Suficiente;2;<55
+F;<2 hr;0;Poco;Normal;Muy Buena;6;>=55
+M;5-10 hr;0;Nada;Normal;Normal;0;<55
+F;<2 hr;0;Nada;Normal;Muy Buena;5;<55
+F;<2 hr;0;Nada;Normal;Muy Buena;1;>=55
+M;<2 hr;0;Nada;Mucho;Normal;8;<55
+M;2-5 hr;0;Nada;Normal;Muy Mala;0;<55
+M;2-5 hr;0;Poco;Poco;Muy Buena;2;<55
+F;2-5 hr;0;Poco;Poco;Normal;3;>=55
+M;<2 hr;0;Nada;Poco;Muy Buena;0;>=55
+M;2-5 hr;0;Demasiado;Demasiado;Muy Buena;10;<55
+M;>10 hr;0;Mucho;Demasiado;Muy Buena;3;>=55
+M;<2 hr;0;Normal;Normal;Muy Buena;10;>=55
+F;5-10 hr;0;Normal;Normal;Muy Buena;2;>=55
+F;2-5 hr;0;Poco;Mucho;Muy Mala;8;<55
+F;<2 hr;0;Normal;Normal;Muy Mala;3;>=55
+F;2-5 hr;0;Nada;Normal;Muy Buena;0;>=55
+F;5-10 hr;0;Normal;Demasiado;Muy Buena;5;>=55
+M;<2 hr;0;Nada;Poco;Muy Buena;2;>=55
+M;2-5 hr;1;Mucho;Mucho;Muy Buena;8;<55
+F;2-5 hr;0;Poco;Demasiado;Muy Buena;0;>=55
+M;<2 hr;0;Nada;Poco;Suficiente;2;>=55
+F;2-5 hr;0;Demasiado;Demasiado;Normal;4;>=55
+M;2-5 hr;0;Nada;Poco;Muy Buena;0;>=55
+M;2-5 hr;0;Nada;Poco;Muy Mala;5;>=55
+M;2-5 hr;2;Mucho;Normal;Buena;2;<55
+M;<2 hr;0;Nada;Poco;Muy Buena;4;>=55
+F;<2 hr;0;Demasiado;Demasiado;Buena;3;<55
+F;5-10 hr;0;Normal;Mucho;Normal;5;>=55
+M;<2 hr;0;Demasiado;Demasiado;Muy Buena;0;<55
+M;<2 hr;1;Normal;Poco;Buena;0;>=55
+M;<2 hr;0;Demasiado;Demasiado;Suficiente;0;<55
+F;2-5 hr;0;Mucho;Normal;Muy Mala;6;>=55
+M;<2 hr;1;Poco;Nada;Muy Buena;8;<55
+M;<2 hr;1;Normal;Normal;Muy Buena;2;<55
+M;<2 hr;1;Normal;Nada;Muy Buena;5;<55
+M;2-5 hr;2;Mucho;Demasiado;Normal;9;<55
+M;<2 hr;0;Mucho;Normal;Buena;6;<55
+F;2-5 hr;2;Demasiado;Demasiado;Muy Mala;8;<55
+F;<2 hr;0;Normal;Poco;Muy Buena;9;<55
+M;<2 hr;1;Mucho;Normal;Buena;10;<55
+F;<2 hr;0;Mucho;Mucho;Suficiente;8;<55
+M;<2 hr;0;Demasiado;Demasiado;Muy Buena;6;>=55
+M;2-5 hr;1;Mucho;Mucho;Suficiente;4;>=55
+M;2-5 hr;1;Demasiado;Mucho;Normal;4;<55
+M;<2 hr;0;Normal;Normal;Normal;0;<55
+F;2-5 hr;2;Normal;Normal;Muy Buena;2;<55
+F;<2 hr;0;Mucho;Mucho;Muy Buena;0;<55
+F;<2 hr;1;Demasiado;Demasiado;Normal;0;<55
+F;<2 hr;0;Mucho;Normal;Muy Buena;3;>=55
+F;5-10 hr;0;Poco;Normal;Normal;5;<55
+F;2-5 hr;0;Demasiado;Demasiado;Muy Buena;6;<55
+F;2-5 hr;1;Normal;Normal;Buena;3;<55
+F;<2 hr;0;Poco;Poco;Muy Buena;0;<55
+F;<2 hr;0;Demasiado;Nada;Normal;0;<55
+F;2-5 hr;2;Mucho;Mucho;Muy Buena;3;<55
+F;2-5 hr;0;Normal;Demasiado;Muy Mala;6;>=55
+F;<2 hr;0;Mucho;Normal;Buena;4;>=55
+F;2-5 hr;0;Mucho;Normal;Buena;0;>=55
+F;2-5 hr;0;Normal;Demasiado;Muy Mala;0;>=55
+M;<2 hr;0;Mucho;Demasiado;Muy Buena;1;>=55
+F;2-5 hr;1;Normal;Normal;Buena;8;<55
+M;<2 hr;0;Nada;Mucho;Muy Mala;4;>=55
+M;<2 hr;0;Demasiado;Demasiado;Muy Mala;5;>=55
+M;<2 hr;0;Poco;Normal;Buena;4;>=55
+F;2-5 hr;0;Normal;Nada;Suficiente;4;<55
+F;5-10 hr;0;Mucho;Demasiado;Normal;3;>=55
+F;2-5 hr;0;Normal;Nada;Muy Buena;0;<55
+F;2-5 hr;1;Mucho;Poco;Suficiente;2;<55
+F;<2 hr;1;Demasiado;Demasiado;Suficiente;3;<55
+F;>10 hr;0;Poco;Normal;Muy Buena;0;>=55
+F;2-5 hr;0;Poco;Normal;Normal;2;>=55
+F;2-5 hr;0;Nada;Nada;Buena;2;>=55
+F;5-10 hr;0;Poco;Nada;Buena;5;>=55
+M;2-5 hr;1;Demasiado;Demasiado;Suficiente;4;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Buena;2;<55
+F;2-5 hr;0;Normal;Normal;Muy Buena;2;>=55
+F;2-5 hr;0;Poco;Normal;Muy Buena;1;>=55
+M;<2 hr;0;Normal;Poco;Normal;2;>=55
+F;5-10 hr;0;Normal;Poco;Buena;1;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Buena;3;>=55
+F;2-5 hr;0;Normal;Poco;Normal;3;>=55
+F;2-5 hr;0;Normal;Mucho;Muy Mala;2;>=55
+F;2-5 hr;0;Poco;Poco;Normal;4;>=55
+M;2-5 hr;0;Normal;Mucho;Normal;3;<55
+F;<2 hr;1;Poco;Nada;Muy Mala;6;<55
+F;<2 hr;0;Poco;Normal;Buena;5;<55
+F;2-5 hr;0;Poco;Poco;Muy Buena;7;<55
+M;<2 hr;0;Normal;Normal;Normal;3;<55
+F;<2 hr;0;Demasiado;Demasiado;Muy Mala;4;<55
+F;5-10 hr;0;Mucho;Mucho;Muy Mala;1;>=55
+F;5-10 hr;0;Normal;Poco;Buena;4;>=55
+F;2-5 hr;1;Normal;Normal;Normal;4;<55
+F;2-5 hr;0;Mucho;Normal;Suficiente;4;>=55
+F;2-5 hr;0;Nada;Normal;Muy Mala;0;>=55
